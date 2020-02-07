@@ -1,0 +1,41 @@
+
+.game, .top {
+    margin: auto;
+    text-align: center;
+    display: table-row;
+}
+
+.container {
+    margin: auto;
+    width: 40vw;
+    height: 60vh;
+    border: solid black 2px;
+    margin-top: 20px;
+    text-align: center;
+    display: table;
+}
+
+.top {
+    height: 40px;
+}
+
+#grid {
+    display: grid;
+    margin: auto;
+}
+
+span {
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+html, body{
+    height: 100vh;
+    width: 100vw;
+}
+
+#arrow {
+    width: 10%;
+    height: 10%;
+    display: table-row;
+}

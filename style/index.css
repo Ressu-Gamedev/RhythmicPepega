@@ -1,0 +1,24 @@
+#main {
+    text-align: center;
+    font-family: Impact, Charcoal, sans-serif;
+    color: white;
+}
+
+#title {
+    margin: 50px;
+}
+
+#selectors {
+    margin: auto;
+    width: 60%;
+    padding: 5px;
+}
+
+li {
+    padding: 10px;
+    list-style: none;
+}
+
+html {
+    background-image: url("../assets/index-pepega.png");
+}
