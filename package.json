@@ -1,0 +1,28 @@
+{
+  "name": "rhythmicpepega",
+  "version": "1.0.0",
+  "description": "m",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ressu-Gamedev/RhythmicPepega.git"
+  },
+  "keywords": [
+    "epic",
+    "g"
+  ],
+  "author": "Big-N",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ressu-Gamedev/RhythmicPepega/issues"
+  },
+  "homepage": "https://github.com/Ressu-Gamedev/RhythmicPepega#readme",
+  "dependencies": {
+    "ejs": "^3.0.1",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.2"
+  }
+}
